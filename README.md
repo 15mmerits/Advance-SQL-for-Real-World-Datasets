@@ -14,4 +14,4 @@ b > Chicago public schools
 
 c > Chicago crime data
 
-Also uploaded these datasets ^
+Also uploaded these datasets (csv files) ^
