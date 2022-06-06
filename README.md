@@ -8,10 +8,10 @@ IBM Db2
 
 These three datasets that are available on the City of Chicago's Data Portal
 
-a > Socioeconomic indicators in Chicago
+a > Socioeconomic indicators in Chicago > https://bit.ly/3moO77e
 
-b > Chicago public schools
+b > Chicago public schools > https://bit.ly/398yeyZ
 
-c > Chicago crime data
+c > Chicago crime data > https://bit.ly/3Q5kmX1
 
 Also uploaded these datasets (csv files) ^
