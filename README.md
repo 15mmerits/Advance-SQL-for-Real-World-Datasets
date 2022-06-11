@@ -14,4 +14,4 @@ b > Chicago public schools > https://bit.ly/398yeyZ
 
 c > Chicago crime data > https://bit.ly/3Q5kmX1
 
-Also uploaded these datasets (csv files) ^
+Also uploaded these datasets (in CSV format) ^
